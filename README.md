@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
     [![part1.png](https://i.postimg.cc/BQqk3Qww/part1.png)](https://postimg.cc/5jRnq1Jw)
 
-- accuracy score for the second part on validation set:
+- Accuracy score for the second part on validation set:
 
     [![part2.png](https://i.postimg.cc/BZ5kR1NK/part2.png)](https://postimg.cc/grJgZjCz)
 
