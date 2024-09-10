@@ -27,3 +27,17 @@ Install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+### Usage
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/alirezamirrokni/DeepFNNs-project.git
+    ```
+
+2. **Navigate to the project directory**:
+
+    ```bash
+    cd DeepFNNs-(part1/part2)
+    ```
+3.**Open `.ipynb` file and run its cells**.
