@@ -27,7 +27,7 @@ Install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-### Usage
+## Usage
 
 1. **Clone the repository**:
 
@@ -40,4 +40,5 @@ pip install -r requirements.txt
     ```bash
     cd DeepFNNs-(part1/part2)
     ```
+    
 3.**Open `.ipynb` file and run its cells**.
