@@ -41,4 +41,4 @@ pip install -r requirements.txt
     cd DeepFNNs-(part1/part2)
     ```
     
-3.**Open `.ipynb` file and run its cells**.
+3. **Open `.ipynb` file and run its cells**.
