@@ -45,12 +45,11 @@ pip install -r requirements.txt
 
 ## Results
 
-The following image shows the performance of different models (based on ROC curve):
-
+The following image shows the ROC_AUC score for the first part on validation set:
 
 [![part1.png](https://i.postimg.cc/BQqk3Qww/part1.png)](https://postimg.cc/5jRnq1Jw)
 
-salam
+And the following next image shows the accuracy score for the second part on validation set:
 [![part2.png](https://i.postimg.cc/BZ5kR1NK/part2.png)](https://postimg.cc/grJgZjCz)
 
 ## Authors        
