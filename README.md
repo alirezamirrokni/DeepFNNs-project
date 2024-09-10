@@ -1,4 +1,3 @@
-Overview
 This repository contains two deep learning projects aimed at predicting user behavior in different domains: hotel booking and customer satisfaction in the airline industry.
 
 Part 1: Hotel Booking Prediction
