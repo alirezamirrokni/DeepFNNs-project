@@ -38,7 +38,11 @@ pip install -r requirements.txt
 2. **Navigate to the project directory**:
 
     ```bash
-    cd DeepFNNs-(part1/part2)
+    cd DeepFNNs/(part1 | part2)
     ```
     
 3. **Open `.ipynb` file and run its cells**.
+
+
+## Authors        
+-[Alireza Mirrokni](https://github.com/alirezamirrokni)    
