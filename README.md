@@ -10,7 +10,10 @@ This repository contains two deep learning projects that aim to predict user beh
 
 ## Contents
 
-- Data preprocessing scripts
+- Data preprocessing & feature engineering scripts:
+    - Handling missing-values
+    - Manipulating time features
+    - Visualizing importatnt features and correlation between them
 - Model training scripts using deep neural networks
 - Evaluation metrics and performance analysis
 
@@ -38,7 +41,7 @@ pip install -r requirements.txt
 2. **Navigate to the project directory**:
 
     ```bash
-    cd DeepFNNs-project/(part1 | part2)
+    cd DeepFNNs/project/(part1 | part2)
     ```
     
 3. **Open `.ipynb` file and run its cells**.
