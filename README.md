@@ -20,7 +20,7 @@ This repository contains two deep learning projects that aim to predict user beh
 ### Prerequisites
 
 - Python 3.x
-- Required libraries: TensorFlow, Keras, NumPy, pandas, scikit-learn, matplotlib
+- Required libraries: TensorFlow, Keras, NumPy, pandas, scikit-learn, matplotlib, seaborn
 
 Install the dependencies using:
 
@@ -38,11 +38,17 @@ pip install -r requirements.txt
 2. **Navigate to the project directory**:
 
     ```bash
-    cd DeepFNNs/(part1 | part2)
+    DeepFNNs-project/(part1 | part2)
     ```
     
 3. **Open `.ipynb` file and run its cells**.
 
+## Results
+
+The following image shows the performance of different models (based on ROC curve):
+
+[![part1.png](https://i.postimg.cc/BQqk3Qww/part1.png)](https://postimg.cc/5jRnq1Jw)
+[![part2.png](https://i.postimg.cc/BZ5kR1NK/part2.png)](https://postimg.cc/grJgZjCz)
 
 ## Authors        
 -[Alireza Mirrokni](https://github.com/alirezamirrokni)    
